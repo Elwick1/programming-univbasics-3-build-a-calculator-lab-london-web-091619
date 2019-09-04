@@ -15,7 +15,7 @@ multiplication = num1 * num2
 end
 
 def modulo(num1, num2)
-modulo = num1 Math.sqrt num2
+modulo = Math.sqrt 
 end
 
 def square_root(num)
